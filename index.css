@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #14213d;
+    max-width: 350px;
+    margin: 50px auto;
+    padding: 0 0 20px 0;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+.counter {
+    background-color: #000000;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+}
+span {
+    color: #ff006e;
+    font-size: 80px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+                                              
+}
+
+.button {
+    background-color: transparent;
+    border: 1px solid gray;
+    border-radius: 3px;
+    color: gray;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    margin: 10px 0; 
+}
